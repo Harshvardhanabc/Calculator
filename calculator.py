@@ -1,4 +1,4 @@
-for i in range(10000000000000):
+while str(input("Do you want to continue to type Yes else No ")) == "Yes":
     print("""
 -------------------------------------
 Calculator for two digits operations
